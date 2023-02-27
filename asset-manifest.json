@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/OrderSummaryCard/static/css/main.1438b640.css",
+    "main.js": "/OrderSummaryCard/static/js/main.839c30f6.js",
+    "index.html": "/OrderSummaryCard/index.html",
+    "static/media/pattern-background-desktop.svg": "/OrderSummaryCard/static/media/pattern-background-desktop.5a0ab6898fc956557d00.svg",
+    "main.1438b640.css.map": "/OrderSummaryCard/static/css/main.1438b640.css.map",
+    "main.839c30f6.js.map": "/OrderSummaryCard/static/js/main.839c30f6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1438b640.css",
+    "static/js/main.839c30f6.js"
+  ]
+}
